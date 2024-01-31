@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: домашняя-баня.рф
+Sitemap: http://домашняя-баня.рф/sitemap.xml
